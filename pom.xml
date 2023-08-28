@@ -12,7 +12,7 @@
 	<artifactId>utility</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>utility</name>
-	<description>Library to access multiple utility methods</description>
+	<description>Java Library to access multiple utility methods</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
@@ -42,7 +42,7 @@
 	</licenses>
 	<scm>
 		<connection>scm:git:git://github.com/projectlombok/lombok.git</connection>
-		<url>http://github.com/projectlombok/lombok</url>
+		<url>https://github.com/bakus32/utilities-connector/tree/master</url>
 	</scm>
 	<issueManagement>
 		<system>GitHub Issues</system>
