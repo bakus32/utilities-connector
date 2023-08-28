@@ -4,7 +4,7 @@ Project Utilities-connector is a java library that give you access to a lot of g
 See [LICENSE](https://github.com/bakus32/utilities-connector/blob/master/LICENCE) for the Project Utilities-connector license.
 
 
-For a list of all authors, see the AUTHORS file.
+For a list of all authors, see the [AUTHORS](https://github.com/bakus32/utilities-connector/blob/master/AUTHORS) file.
 
 For complete project information, see utilities-connector.org
 
