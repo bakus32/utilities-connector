@@ -33,7 +33,30 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-
+	<licenses>
+		<license>
+			<name>The MIT License</name>
+			<url>https://projectlombok.org/LICENSE</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
+	<scm>
+		<connection>scm:git:git://github.com/projectlombok/lombok.git</connection>
+		<url>http://github.com/projectlombok/lombok</url>
+	</scm>
+	<issueManagement>
+		<system>GitHub Issues</system>
+		<url>https://github.com/utility/issues</url>
+	</issueManagement>
+	<developers>
+		<developer>
+			<id>yobak</id>
+			<name>Bakayoko Younous</name>
+			<email>younesbakayoko99@gmail.com</email>
+			<url></url>
+			<timezone>Africa/Abidjan</timezone>
+		</developer>
+	</developers>
 	<build>
 		<plugins>
 			<plugin>
