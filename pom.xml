@@ -41,7 +41,7 @@
 		</license>
 	</licenses>
 	<scm>
-		<connection>scm:git:git://github.com/projectlombok/lombok.git</connection>
+		<connection>scm:git:git://github.com:bakus32/utilities-connector.git</connection>
 		<url>https://github.com/bakus32/utilities-connector/tree/master</url>
 	</scm>
 	<issueManagement>
