@@ -1,2 +1,11 @@
-# utilities-connector
-A connector providing a lot of good utility methods to build high performance application's
+# Utilities-connector Project
+Project Utilities-connector is a java library that give you access to a lot of good utility methods that help you increase your productivity.
+
+See LICENSE for the Project Utilities-connector license.
+
+
+For a list of all authors, see the AUTHORS file.
+
+For complete project information, see utilities-connector.org
+
+You can review our security policy via SECURITY.md
