@@ -8,4 +8,4 @@ For a list of all authors, see the [AUTHORS](https://github.com/bakus32/utilitie
 
 For complete project information, see utilities-connector.org
 
-You can review our security policy via SECURITY.md
+You can review our security policy via [SECURITY.md](https://github.com/bakus32/utilities-connector/blob/master/Security.md)
